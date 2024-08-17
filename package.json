@@ -1,0 +1,24 @@
+{
+  "name": "kiru-night-glow-theme",
+  "displayName": "night-glow-theme",
+  "description": "A sleek, dark theme for Visual Studio Code that enhances code readability with a modern color palette.",
+  "version": "0.0.1",
+  "publisher": "kiru dev",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repo-name.git"
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run build"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3",
+    "vscode": "^1.1.36"
+  }
+}
